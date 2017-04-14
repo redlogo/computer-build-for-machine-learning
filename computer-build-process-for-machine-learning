@@ -1,0 +1,14 @@
+1. why choosing i3 7100?
+    it has two cores and four threads. what I am planing to do is simply one GPU machine learning / deep learning tasks. this CPU is enough for that.
+2. why choosing GPU GTX 1080 Ti?
+    it has 11Toperations/second capability. it also has 11GB high speed high bandwidth memory. this could be a budget choice if not using titan x or titan xp.
+3. why choosing H270 motherboard?
+    it is compatible with i3 7100 without doing bios update, I am not a fan of doing bios updates. also this provides enough pcie lanes (20 lanes in total), which is enough for GPU x16 connection. also, no plan to do CPU overclock.
+4. why using GPU watercooling?
+    it is for a). fix the loud noise issue of the FE GPU fan, b). lower temperature means better performance, always.
+5. why using 2*8GB = 16GB memory?
+    16GB memory should be sufficient for 11GB of GPU. 2*8GB will take advantage of H270 capability.
+6. why choosing power = 650w?
+    the system will take 450w power at peak. if considering some unusual power comsumption, 650w should be enough.
+7. why choosing 2 stroages?
+    SSD provides speed, HDD provides actual data storage.
